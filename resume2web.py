@@ -12,7 +12,7 @@ from docx import Document
 
 st.set_page_config(page_title = "AI Website Creation", page_icon = "📰", layout = "centered")
 
-st.title("AI AUTOMATION WEBSITE CREATION")
+st.title("AI-POWERED RESUME TO PORTFOLIO WEBSITE GENERATOR")
 st.caption("Turn your resume or idea into a professional portfolio website")
 
 st.sidebar.title("⚙️ Input Settings")
